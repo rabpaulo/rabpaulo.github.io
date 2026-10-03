@@ -70,11 +70,10 @@ export const portfolioContent = {
     },
     about: {
       eyebrow: '01 / About',
-      title: 'I build scalable applications, from concept to launch.',
+      title: 'I build for web and mobile.',
       paragraphs: [
-        'I am Paulo Rabelo, a Full Stack and AI Engineer based in Fortaleza, Brazil. I turn ideas into digital products, combining thoughtful interfaces, well-structured backends, and AI integrations that solve practical problems. My core stack includes TypeScript, React, Next.js, Node.js, and Python.',
-        'My experience spans web applications, mobile products built with React Native and Expo, and native Android development with Kotlin and Jetpack Compose. I work with REST and GraphQL APIs, PostgreSQL, SQLite, and cloud services such as AWS and Supabase, connecting the layers that take a product from development to production.',
-        'Through PR Labs, my independent software company, I build and launch products such as LiftBook and Dayle. Projects like Simple Study, Museu Unifor, and LaunchShot have also shaped my approach to offline experiences, accessibility, and interactive tools. I focus on performance, maintainable architecture, and attention to detail, building software that is useful today and ready to evolve.',
+        'I’m Paulo, a full stack developer from Fortaleza, Brazil. I work with React, Next.js, Node.js, and Python, and build apps with React Native and Kotlin. My experience includes APIs, databases, and AI integrations.',
+        'At PR Labs, I build my own products, including LiftBook and Dayle. I like working on the whole project: the interface, the code, and the launch.',
       ],
     },
     projectsSection: {
@@ -180,11 +179,10 @@ export const portfolioContent = {
     },
     about: {
       eyebrow: '01 / Sobre',
-      title: 'Construo aplicações escaláveis, do conceito à entrega.',
+      title: 'Desenvolvo para web e mobile.',
       paragraphs: [
-        'Sou Paulo Rabelo, Full Stack and AI Engineer de Fortaleza, CE. Transformo ideias em produtos digitais, combinando interfaces bem pensadas, backends bem estruturados e integrações com inteligência artificial que resolvem problemas práticos. Minha base de trabalho inclui TypeScript, React, Next.js, Node.js e Python.',
-        'Minha experiência abrange aplicações web, produtos mobile com React Native e Expo e desenvolvimento Android nativo com Kotlin e Jetpack Compose. Trabalho com APIs REST e GraphQL, PostgreSQL, SQLite e serviços em nuvem como AWS e Supabase, conectando as camadas que levam um produto do desenvolvimento à produção.',
-        'Na PR Labs, minha empresa independente de software, desenvolvo e lanço produtos como LiftBook e Dayle. Projetos como Simple Study, Museu Unifor e LaunchShot também moldaram minha abordagem a experiências offline, acessibilidade e ferramentas interativas. Priorizo performance, arquitetura de fácil manutenção e atenção aos detalhes para construir software útil hoje e preparado para evoluir.',
+        'Sou Paulo, desenvolvedor full stack de Fortaleza. Trabalho com React, Next.js, Node.js e Python, e também crio apps com React Native e Kotlin. Minha experiência inclui APIs, bancos de dados e integrações com IA.',
+        'Na PR Labs, desenvolvo meus próprios produtos, como LiftBook e Dayle. Gosto de cuidar do projeto inteiro: interface, código e lançamento.',
       ],
     },
     projectsSection: {
