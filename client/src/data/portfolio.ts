@@ -148,7 +148,7 @@ export const portfolioContent = {
         { title: 'Exploring', descriptor: 'Building expertise', skills: skillStacks.exploring },
       ],
       practicesHeading: 'Practices and methodologies',
-      practices: 'SOLID principles, Clean Architecture, DRY, Test-Driven Development, Agile (Scrum/Kanban), Code Review, Pair Programming, Performance Optimization, Accessibility (WCAG), CI/CD Pipelines, Technical Documentation',
+      practices: 'SOLID principles, Test-Driven Development, Agile (Scrum/Kanban), Code Review, Performance Optimization, Accessibility (WCAG), CI/CD Pipelines, Technical Documentation',
     },
     contact: {
       eyebrow: '04 / Contact',
@@ -257,7 +257,7 @@ export const portfolioContent = {
         { title: 'Explorando', descriptor: 'Construindo experiência', skills: skillStacks.exploring },
       ],
       practicesHeading: 'Práticas e metodologias',
-      practices: 'Princípios SOLID, Clean Architecture, DRY, Desenvolvimento Orientado a Testes, Ágil (Scrum/Kanban), Revisão de código, Programação em pares, Otimização de performance, Acessibilidade (WCAG), Pipelines de CI/CD, Documentação técnica',
+      practices: 'Princípios SOLID, Desenvolvimento Orientado a Testes, Ágil (Scrum/Kanban), Revisão de código, Otimização de performance, Acessibilidade (WCAG), Pipelines de CI/CD, Documentação técnica',
     },
     contact: {
       eyebrow: '04 / Contato',
