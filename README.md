@@ -27,7 +27,9 @@ Welcome to my personal portfolio! This project showcases my full stack developme
    ```bash
    npm run dev
    ```
-   > **Note**: Due to the base path configuration (`/portfolio/`), make sure to access the app at `http://localhost:5173/portfolio/` instead of just `/`.
+   Open `http://localhost:5173/`.
 
 ## Deployment
-This project is configured to be built and deployed automatically using GitHub Pages.
+This project deploys to `https://rabpaulo.github.io/` using GitHub Actions. In the repository's **Settings → Pages → Build and deployment**, set **Source** to **GitHub Actions** so Pages publishes the built app in `client/dist`.
+
+The **Deploy GitHub Pages** workflow runs on pushes to `main` and can also be started manually from the **Actions** tab.
