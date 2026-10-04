@@ -146,7 +146,6 @@ export default function Projects() {
               ))}
             </nav>
             <div className="workbench-description">
-              <p className="project-subtitle">{project.subtitle}</p>
               <h3>{project.title}</h3>
               <p className="project-description">{project.description}</p>
               <ul className="feature-list">
@@ -181,10 +180,6 @@ export default function Projects() {
           <div className="workbench-preview">
             <div className="preview-caption">
               <span>{project.title}</span>
-              <span>
-                {copy.tryIt}
-                <span aria-hidden="true"> ↘</span>
-              </span>
             </div>
             {project.id === 'launchshot' ? (
               <LaunchShotDemo key={language} />
@@ -197,7 +192,6 @@ export default function Projects() {
             ) : (
               <MuseumDemo key={language} />
             )}
-            <p className="preview-note">{copy.demoNote}</p>
           </div>
         </div>
       </div>
