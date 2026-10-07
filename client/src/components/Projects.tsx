@@ -163,6 +163,12 @@ export default function Projects() {
               </div>
             </div>
             <div className="workbench-links">
+              {project.playStore && (
+                <a href={project.playStore} target="_blank" rel="noreferrer">
+                  Google Play
+                  <Icon name="arrow" />
+                </a>
+              )}
               {project.live && (
                 <a href={project.live} target="_blank" rel="noreferrer">
                   {labels.live}

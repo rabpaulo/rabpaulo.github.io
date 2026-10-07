@@ -12,6 +12,7 @@ const sharedProjects: Array<{
   stack: string[]
   github?: string
   live?: string
+  playStore?: string
 }> = [
   {
     id: 'simple-study',
@@ -42,6 +43,7 @@ const sharedProjects: Array<{
     id: 'dayle',
     section: 'prLabs',
     stack: ['React Native', 'Expo', 'TypeScript', 'AsyncStorage', 'Jetpack Glance'],
+    playStore: 'https://play.google.com/store/apps/details?id=com.rabpaulo.dayle',
   },
 ]
 
